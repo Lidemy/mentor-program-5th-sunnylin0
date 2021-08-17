@@ -785,7 +785,7 @@ React 在 2019 年 2 月推出 v16.8 這個版本，做了一個很大的改動�
 
 1. [FE301] React 基礎（Class component 版）：全部
 2. [官方教學](https://reactjs.org/tutorial/tutorial.html)
-3. [React.js 小書](http://huziketang.mangojuice.top/books/react/)
+3. [React.js 小書](https://github.com/huzidaha/react-naive-book)
 
 延伸閱讀：[React 性能優化大挑戰：一次理解 Immutable data 跟 shouldComponentUpdate](https://blog.techbridge.cc/2018/01/05/react-render-optimization/)
 
